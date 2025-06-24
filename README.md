@@ -43,3 +43,5 @@ Iface — указывает сетевой интерфейс, использу
 
 
 Список утилит: `ipcalc, ip, netplan, netstat, iperf3, iptables, ping, nmap, sysctl, tcpdump, traceroute, systemctl, telnet, dhclient.`
+
+### Результат работы описан в файле report.md!
